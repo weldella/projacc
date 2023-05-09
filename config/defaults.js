@@ -19,7 +19,7 @@ define({
     //Default configuration settings for the application. This is where you'll define things like a bing maps key,
     //default web map, default app color theme and more. These values can be overwritten by template configuration settings and url parameters.
     "appid": "",
-    "webmap": "",
+    "webmap": "2c253b85ee194774a3f1cf87e3cafeac",
     "oauthappid": null,
     //Group templates must support a group url parameter. This will contain the id of the group.
     "group": "520b1bd79fa74f0f9f3d13315dab6915",
@@ -65,7 +65,7 @@ define({
     "enableGoogleplus": false,
     "enablePortalLogin": true,
 
-    "disableCurrentLocation" : false, //Flag to decide wether to use the current location
+    "disableCurrentLocation" : false, //Flag to decide whether to use the current location
     "facebookAppId": "",
 
     "twitterSigninUrl": location.protocol + "//utility.arcgis.com/tproxy/signin",
